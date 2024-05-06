@@ -24,3 +24,9 @@
 <img width="500" alt="Screenshot 2024-05-06 at 17 30 44" src="https://github.com/husainhakim/OS_LABMANUAL2/assets/142593070/1bab4200-5669-4199-91b6-d12902e7e76c">
 <h3>Code:</h3>
 <img width="500" alt="Screenshot 2024-05-06 at 17 32 58" src="https://github.com/husainhakim/OS_LABMANUAL2/assets/142593070/d9360666-d249-4f00-8548-77aab6e3c3f9">
+<h3>6)Write a shell script that prompts the user for a name of a file or directory and reports if it is a regular file, a directory, or another type of file. Also perform an ls command against the file or directory with the long listing option.</h3>
+
+<h3>Output:</h3>
+<img width="500" alt="Screenshot 2024-05-06 at 18 14 37" src="https://github.com/husainhakim/OS_LABMANUAL2/assets/142593070/75f6b7bf-2f02-4639-b04c-6e83c51ebee2">
+<h3>Code:</h3>
+<img width="500" alt="Screenshot 2024-05-06 at 18 17 03" src="https://github.com/husainhakim/OS_LABMANUAL2/assets/142593070/4a42e1ce-ac88-47ea-b057-d1dfcd44ad4a">
