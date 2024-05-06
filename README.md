@@ -20,3 +20,8 @@
 <img width="500" alt="Screenshot 2024-05-06 at 17 24 23" src="https://github.com/husainhakim/OS_LABMANUAL2/assets/142593070/e5633898-e7c2-4827-b96b-efef23032fb1">
 <h3>Code:</h3>
 <img width="500" alt="Screenshot 2024-05-06 at 17 26 14" src="https://github.com/husainhakim/OS_LABMANUAL2/assets/142593070/ce150b45-074a-4439-9d7e-d29d1cb7bfb7">
+<h3>5)Write a shell script that displays “man”,”bear”,”pig”,”dog”,”cat”,and “sheep” on the screen with each appearing on a separate line. Try to do this in as few lines as possible.</h3>
+<h3>Output:</h3>
+<img width="500" alt="Screenshot 2024-05-06 at 17 30 44" src="https://github.com/husainhakim/OS_LABMANUAL2/assets/142593070/1bab4200-5669-4199-91b6-d12902e7e76c">
+<h3>Code:</h3>
+<img width="500" alt="Screenshot 2024-05-06 at 17 32 58" src="https://github.com/husainhakim/OS_LABMANUAL2/assets/142593070/d9360666-d249-4f00-8548-77aab6e3c3f9">
