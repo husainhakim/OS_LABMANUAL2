@@ -1,4 +1,3 @@
-# OS_LABMANUAL2
 <h3>1)Write a shellscript program that prints shellscripting is fun on the screen</h3>
 <h3>Output:</h3>
 <img width="500" alt="Screenshot 2024-05-06 at 16 59 26" src="https://github.com/husainhakim/OS_LABMANUAL2/assets/142593070/9671e61d-3d6a-4254-b342-2853537a39ae"><br>
