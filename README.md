@@ -15,3 +15,8 @@
 <img width="500" alt="Screenshot 2024-05-06 at 17 01 05" src="https://github.com/husainhakim/OS_LABMANUAL2/assets/142593070/7a11775b-d40f-4092-b273-19ec119c486e">
 <h3>Code:</h3>
 <img width="500" alt="Screenshot 2024-05-06 at 17 18 05" src="https://github.com/husainhakim/OS_LABMANUAL2/assets/142593070/0b3fcc75-6530-4c38-88f3-2607905dbec8">
+<h3>4)Write a shell script to check to see if the file “file_path” exists. If it does exist, display “file_path passwords are enabled.” Next, check to see if you can write to the file. If you can, display “You have permissions to edit “file_path.””If you cannot, display “You do NOT have permissions to edit “file_path””</h3>
+<h3>Output:</h3>
+<img width="500" alt="Screenshot 2024-05-06 at 17 24 23" src="https://github.com/husainhakim/OS_LABMANUAL2/assets/142593070/e5633898-e7c2-4827-b96b-efef23032fb1">
+<h3>Code:</h3>
+<img width="500" alt="Screenshot 2024-05-06 at 17 26 14" src="https://github.com/husainhakim/OS_LABMANUAL2/assets/142593070/ce150b45-074a-4439-9d7e-d29d1cb7bfb7">
